@@ -1,7 +1,0 @@
-langchain
-python-dotenv
-langchain_community
-ipykernel
-beautifulsoup4
-faiss-cpu
-streamlit
